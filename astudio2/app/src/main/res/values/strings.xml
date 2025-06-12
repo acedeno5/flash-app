@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Flash</string>
+    <string name="hello_msg">Hello</string>
+
+    <!-- for screen template -->
+    <string name="welcome_label">Welcome to FLASH!</string>
+
+    <!-- for add items screen -->
+    <string name="world_leaderboard_title">World Leaderboard</string>
+    <string name="personal_leaderboard_title">Personal Leaderboard</string>
+    <string name="show_personal_leaderboard">Show Personal Leaderboard</string>
+    <string name="show_world_leaderboard">Show World Leaderboard</string>
+    <string name="new_trip">New Trip</string>
+    <string name="start_location">Start Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="waiting_for_location">Waiting for location...</string>
+    <string name="location_permission_needed">Location permission is needed for tracking trips</string>
+    <string name="end_location">End Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="end_trip">End Trip</string>
+    <string name="missing_coordinates_error">Please enter both latitude and longitude</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
